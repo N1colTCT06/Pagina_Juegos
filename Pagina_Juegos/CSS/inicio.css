@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: azure;
+}
+a {
+    color: azure;
+}
+h1 {
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    color: azure;
+}
